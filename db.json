@@ -1,0 +1,127 @@
+{
+  "cities": [
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "id": "1001",
+      "tip": "✈️ Don't Miss: Hop on the London Eye or stroll across the iconic Tower Bridge.",
+      "fact": "📍 Fun Fact: Did you know London is home to over 170 museums? Plus, Big Ben is actually the name of the bell, not the clock!",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "id": "1002",
+      "tip": "✈️ Don't Miss: Enjoy the Eiffel Tower lit up at night and explore the Louvre.",
+      "fact": "📍 Fun Fact: Paris has more dogs than children! It's one of the most pet-friendly cities in the world.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "id": "1003",
+      "tip": "✈️ Don't Miss: Toss a coin in the Trevi Fountain to ensure your return to this eternal city.",
+      "fact": "📍 Fun Fact: Rome has over 2,000 fountains, including the iconic Trevi Fountain.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Barcelona",
+      "country": "Spain",
+      "id": "1004",
+      "tip": "✈️ Don't Miss: Stroll along Las Ramblas and explore Park Güell.",
+      "fact": "📍 Fun Fact: The Sagrada Familia has been under construction since 1882 and is still not finished!",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "id": "1005",
+      "tip": "✈️ Don't Miss: Cruise along the famous canals by boat or bike.",
+      "fact": "📍 Fun Fact: There are more bicycles than people in Amsterdam!",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany",
+      "id": "1006",
+      "tip": "✈️ Don't Miss: Visit the Berlin Wall and the Reichstag.",
+      "fact": "📍 Fun Fact: Berlin’s nightlife lasts all weekend long, and the city is nine times bigger than Paris.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Venice",
+      "country": "Italy",
+      "id": "1007",
+      "tip": "✈️ Don't Miss: Take a gondola ride along the canals at sunset.",
+      "fact": "📍 Fun Fact: Venice has over 400 bridges, but only 4 cross the Grand Canal.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain",
+      "id": "1008",
+      "tip": "✈️ Don't Miss: Relax in Retiro Park and visit the Royal Palace.",
+      "fact": "📍 Fun Fact: Madrid is home to the world’s oldest restaurant, Casa Botín, open since 1725.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Prague",
+      "country": "Czech Republic",
+      "id": "1009",
+      "tip": "✈️ Don't Miss: Walk across the Charles Bridge and admire the Prague Castle.",
+      "fact": "📍 Fun Fact: The Prague Astronomical Clock is the oldest in the world, operating since 1410.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    },
+    {
+      "city": "Vienna",
+      "country": "Austria",
+      "id": "1010",
+      "tip": "✈️ Don't Miss: Visit the Prater Park and try the famous Sachertorte at one of its historic cafés.",
+      "fact": "📍 Fun Fact: Vienna is known as the 'City of Music,' home to Mozart, Beethoven, and Schubert.",
+      "image": "url",
+      "stamps": [
+        "url"
+      ]
+    }
+  ],
+  "recomendations": [
+    {
+      "id": "0001",
+      "cityId": "1234",
+      "title": "Parque de la esquina",
+      "description": "blablaba",
+      "date": "01/09/2014",
+      "companion": "solo traveler",
+      "usuario": "Pepito",
+      "categoria": "Experience",
+      "image": "url",
+    }
+  ]
+}
