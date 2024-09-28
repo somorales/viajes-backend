@@ -6,9 +6,11 @@
       "id": "1001",
       "tip": "✈️ Don't Miss: Hop on the London Eye or stroll across the iconic Tower Bridge.",
       "fact": "📍 Fun Fact: Did you know London is home to over 170 museums? Plus, Big Ben is actually the name of the bell, not the clock!",
-      "image": "url",
+      "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/3592501.jpg",
       "stamps": [
-        "url"
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png"
       ]
     },
     {
@@ -111,17 +113,29 @@
       ]
     }
   ],
-  "recomendations": [
+  "recommendations": [
     {
-      "id": "0001",
-      "cityId": "1234",
-      "title": "Parque de la esquina",
-      "description": "blablaba",
+      "id": 1,
+      "cityId": "1001",
+      "title": "London Eye ",
+      "description": "It was worth the wait, it was my favorite view of London",
       "date": "01/09/2014",
       "companion": "solo traveler",
-      "usuario": "Pepito",
+      "usuario": "Andres",
       "categoria": "Experience",
-      "image": "url",
-    }
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+    },
+
+    {
+        "id": 2,
+        "cityId": "1002",
+        "title": "torre Eiffel  ",
+        "description": "prueba",
+        "date": "01/09/2014",
+        "companion": "",
+        "usuario": "Andres",
+        "categoria": "Experience",
+        "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+      }
   ]
 }
