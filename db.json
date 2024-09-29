@@ -115,37 +115,26 @@
   ],
   "recommendations": [
     {
-      "id": 2,
-      "cityId": "1002",
-      "title": "torre Eiffel  ",
-      "description": "prueba",
+      "id": 1,
+      "cityId": "1001",
+      "title": "London Eye ",
+      "description": "It was worth the wait, it was my favorite view of London",
       "date": "01/09/2014",
-      "companion": "",
+      "companion": "solo traveler",
       "usuario": "Andres",
       "category": "Experience",
       "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
     },
     {
-      "cityId": "1001",
-      "title": "prueba ",
-      "description": "cambio de guardia",
-      "date": "01/10/2014",
-      "companion": "amigos",
-      "usuario": "Luana",
+      "id": 2,
+      "cityId": "1002",
+      "title": "torre Eiffel  ",
+      "description": "prueba",
+      "date": "01/09/2014",
+      "companion": "friends",
+      "usuario": "Andres",
       "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
-      "id": 3
-    },
-    {
-      "cityId": "1003",
-      "title": "prueba2 ",
-      "description": "",
-      "date": "08/04/2024",
-      "companion": "solo traveler",
-      "usuario": "Angela",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
-      "id": 4
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
     }
   ]
 }
