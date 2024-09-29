@@ -122,20 +122,19 @@
       "date": "01/09/2014",
       "companion": "solo traveler",
       "usuario": "Andres",
-      "categoria": "Experience",
+      "category": "Experience",
       "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
     },
-
     {
-        "id": 2,
-        "cityId": "1002",
-        "title": "torre Eiffel  ",
-        "description": "prueba",
-        "date": "01/09/2014",
-        "companion": "",
-        "usuario": "Andres",
-        "categoria": "Experience",
-        "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
-      }
+      "id": 2,
+      "cityId": "1002",
+      "title": "torre Eiffel  ",
+      "description": "prueba",
+      "date": "01/09/2014",
+      "companion": "friends",
+      "usuario": "Andres",
+      "category": "Experience",
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+    }
   ]
 }
