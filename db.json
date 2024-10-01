@@ -9,8 +9,8 @@
       "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/3592501.jpg",
       "stamps": [
         "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png"
+        "https://img.freepik.com/vector-premium/famoso-big-ben-londres-sello-postal-grunge-ilustracion-vectorial_102712-720.jpg?w=1380",
+        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/851.png"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "id": "1002",
       "tip": "✈️ Don't Miss: Enjoy the Eiffel Tower lit up at night and explore the Louvre.",
       "fact": "📍 Fun Fact: Paris has more dogs than children! It's one of the most pet-friendly cities in the world.",
-      "image": "url",
+      "image": "https://a.eu.mktgcdn.com/f/100004519/N2BB4ohwclor2uLoZ7XMHgJmxOZaMOokMdQqqXQAq3s.jpg",
       "stamps": [
         "url"
       ]
@@ -115,26 +115,37 @@
   ],
   "recommendations": [
     {
-      "id": 1,
       "cityId": "1001",
       "title": "London Eye ",
       "description": "It was worth the wait, it was my favorite view of London",
-      "date": "01/09/2014",
+      "date": "2024-06-06",
       "companion": "solo traveler",
       "usuario": "Andres",
       "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "id": 1
     },
     {
-      "id": 2,
       "cityId": "1002",
-      "title": "torre Eiffel  ",
+      "title": "torre Eiffel",
       "description": "prueba",
-      "date": "01/09/2014",
       "companion": "friends",
       "usuario": "Andres",
       "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "id": 2
+    },
+    {
+      "cityId": "1001",
+      "title": "etssgd",
+      "description": "fsfsf",
+      "date": "2024-10-02",
+      "companion": "family",
+      "usuario": "essfs",
+      "category": "experience",
+      "image": "fsfsfs",
+      "stamp": "https://img.freepik.com/vector-premium/famoso-big-ben-londres-sello-postal-grunge-ilustracion-vectorial_102712-720.jpg?w=1380",
+      "id": 3
     }
   ]
 }
