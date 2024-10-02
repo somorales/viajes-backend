@@ -115,26 +115,108 @@
   ],
   "recommendations": [
     {
-      "id": 1,
-      "cityId": "1001",
-      "title": "London Eye ",
-      "description": "It was worth the wait, it was my favorite view of London",
-      "date": "01/09/2014",
-      "companion": "solo traveler",
-      "usuario": "Andres",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+      "title": "",
+      "description": "",
+      "date": "",
+      "companion": "",
+      "usuario": "",
+      "category": "",
+      "image": "",
+      "id": 3
     },
     {
-      "id": 2,
-      "cityId": "1002",
+      "title": "asaaaa",
+      "description": "f sahvmgfdqxaK<Z",
+      "date": "2024-09-11",
+      "companion": "family",
+      "usuario": "dddss",
+      "category": "hidden places ",
+      "image": "",
+      "id": 4
+    },
+    {
+      "cityId": "1001",
+      "title": "aaaa",
+      "description": "aa",
+      "date": "2024-10-09",
+      "companion": "traveler",
+      "usuario": "aaa",
+      "category": "hidden places ",
+      "image": "aa",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
+      "id": 5
+    },
+    {
+      "cityId": "1004",
+      "title": "Parc Güell",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis accusantium suscipit saepe officiis porro aliquam totam ab pariatur cumque eveniet dolore molestiae, nemo voluptatem quos exercitationem? Minima, asperiores iusto?",
+      "date": "2024-10-16",
+      "companion": "patner",
+      "usuario": "Angela",
+      "category": "hidden places ",
+      "image": "https://cdn-imgix.headout.com/mircobrands-content/image/a2ac0d0fbdb3173763ff85f7de5a000e-AdobeStock_39353446.jpeg",
+      "stamp": "",
+      "id": 6
+    },
+    {
+      "cityId": "1005",
       "title": "torre Eiffel  ",
-      "description": "prueba",
-      "date": "01/09/2014",
-      "companion": "friends",
+      "description": "ljkhlijhbn",
+      "date": "2024-10-10",
+      "companion": "traveler",
       "usuario": "Andres",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg"
+      "category": "experience",
+      "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
+      "stamp": "",
+      "id": 7
+    },
+    {
+      "cityId": "1001",
+      "title": "torre Eiffel  ",
+      "description": "hfvkjcfhbbjn",
+      "date": "2024-10-03",
+      "companion": "family",
+      "usuario": "Andres",
+      "category": "experience",
+      "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
+      "id": 8
+    },
+    {
+      "cityId": "1002",
+      "title": "Torre Eiffel",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
+      "date": "2024-10-17",
+      "companion": "family",
+      "usuario": "Angela",
+      "category": "hidden places ",
+      "image": "https://viajes.nationalgeographic.com.es/medio/2024/02/14/torre-eiffel_6e9796fd_278483323_240214093442_1280x853.jpg",
+      "stamp": "",
+      "id": 9
+    },
+    {
+      "cityId": "1002",
+      "title": "Puente de Alexandre",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
+      "date": "2024-11-01",
+      "companion": "traveler",
+      "usuario": "Angela",
+      "category": "hidden places ",
+      "image": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1611316141/mqzlzcn9u3jkdczwjfm3.jpg",
+      "stamp": "",
+      "id": 10
+    },
+    {
+      "cityId": "1001",
+      "title": "London Eye",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
+      "date": "2024-10-04",
+      "companion": "patner",
+      "usuario": "Angela",
+      "category": "hidden places ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLK93Qd_gY_OTHhVZ2farKX-7R0k59w0IFtA&s",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
+      "id": 11
     }
   ]
 }
