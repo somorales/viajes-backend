@@ -6,7 +6,7 @@
       "id": "1001",
       "tip": "✈️ Don't Miss: Hop on the London Eye or stroll across the iconic Tower Bridge.",
       "fact": "📍 Fun Fact: Did you know London is home to over 170 museums? Plus, Big Ben is actually the name of the bell, not the clock!",
-      "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/3592501.jpg",
+      "image": "https://static.eldiario.es/clip/ac5016f6-7afd-43f8-9d87-f38c82e5a9f1_16-9-discover-aspect-ratio_default_0.jpg",
       "stamps": [
         "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
         "https://img.freepik.com/vector-premium/famoso-big-ben-londres-sello-postal-grunge-ilustracion-vectorial_102712-720.jpg?w=1380",
@@ -21,7 +21,8 @@
       "fact": "📍 Fun Fact: Paris has more dogs than children! It's one of the most pet-friendly cities in the world.",
       "image": "https://a.eu.mktgcdn.com/f/100004519/N2BB4ohwclor2uLoZ7XMHgJmxOZaMOokMdQqqXQAq3s.jpg",
       "stamps": [
-        "url"
+        "https://i.pinimg.com/564x/69/68/34/696834bd889d8b1193bc9290470c8492.jpg",
+        "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg"
       ]
     },
     {
@@ -30,7 +31,7 @@
       "id": "1003",
       "tip": "✈️ Don't Miss: Toss a coin in the Trevi Fountain to ensure your return to this eternal city.",
       "fact": "📍 Fun Fact: Rome has over 2,000 fountains, including the iconic Trevi Fountain.",
-      "image": "url",
+      "image": "https://www.enroma.com/wp-content/uploads/2021/02/Roma-en-3-d%C3%ADas.jpg",
       "stamps": [
         "url"
       ]
@@ -41,7 +42,7 @@
       "id": "1004",
       "tip": "✈️ Don't Miss: Stroll along Las Ramblas and explore Park Güell.",
       "fact": "📍 Fun Fact: The Sagrada Familia has been under construction since 1882 and is still not finished!",
-      "image": "url",
+      "image": "https://mediaim.expedia.com/destination/9/79f7d5913147f2026da413aa7739b1de.jpg",
       "stamps": [
         "url"
       ]
@@ -52,7 +53,7 @@
       "id": "1005",
       "tip": "✈️ Don't Miss: Cruise along the famous canals by boat or bike.",
       "fact": "📍 Fun Fact: There are more bicycles than people in Amsterdam!",
-      "image": "url",
+      "image": "https://media.traveler.es/photos/6231abc7d03e1c5549e648ca/16:9/w_2560%2Cc_limit/The%2520Best%2520Places%2520for%2520Female%2520Solo%2520Travelers_Amsterdam_GettyImages-923546342.jpg",
       "stamps": [
         "url"
       ]
@@ -63,7 +64,7 @@
       "id": "1006",
       "tip": "✈️ Don't Miss: Visit the Berlin Wall and the Reichstag.",
       "fact": "📍 Fun Fact: Berlin’s nightlife lasts all weekend long, and the city is nine times bigger than Paris.",
-      "image": "url",
+      "image": "https://img.freepik.com/foto-gratis/construccion-columnas_1160-803.jpg?t=st=1727860574~exp=1727864174~hmac=e5e538517de250ad249c0cd21d449ca360b679b938bdc9057f1deea4facd7861&w=2000",
       "stamps": [
         "url"
       ]
@@ -74,7 +75,7 @@
       "id": "1007",
       "tip": "✈️ Don't Miss: Take a gondola ride along the canals at sunset.",
       "fact": "📍 Fun Fact: Venice has over 400 bridges, but only 4 cross the Grand Canal.",
-      "image": "url",
+      "image": "https://img.freepik.com/foto-gratis/disparo-alto-angulo-gondolas-estacionadas-canal-venecia-italia_181624-11120.jpg?t=st=1727860730~exp=1727864330~hmac=da0f6c76d2421c82666f512d97a24f8ece68f44dd194d1ab1300943303743bf3&w=2000",
       "stamps": [
         "url"
       ]
@@ -85,7 +86,7 @@
       "id": "1008",
       "tip": "✈️ Don't Miss: Relax in Retiro Park and visit the Royal Palace.",
       "fact": "📍 Fun Fact: Madrid is home to the world’s oldest restaurant, Casa Botín, open since 1725.",
-      "image": "url",
+      "image": "https://services.meteored.com/img/article/donde-ver-los-mejores-atardeceres-de-madrid-1709839193844_1280.jpeg",
       "stamps": [
         "url"
       ]
@@ -96,7 +97,7 @@
       "id": "1009",
       "tip": "✈️ Don't Miss: Walk across the Charles Bridge and admire the Prague Castle.",
       "fact": "📍 Fun Fact: The Prague Astronomical Clock is the oldest in the world, operating since 1410.",
-      "image": "url",
+      "image": "https://img.freepik.com/foto-gratis/noche-praga_268835-846.jpg?t=st=1727860377~exp=1727863977~hmac=bcfd49d5640a6eb713ae18713b24b5947b3b5796ae5dd5a0a3d969d8ec4881a1&w=2000",
       "stamps": [
         "url"
       ]
@@ -107,45 +108,14 @@
       "id": "1010",
       "tip": "✈️ Don't Miss: Visit the Prater Park and try the famous Sachertorte at one of its historic cafés.",
       "fact": "📍 Fun Fact: Vienna is known as the 'City of Music,' home to Mozart, Beethoven, and Schubert.",
-      "image": "url",
+      "image": "https://img.freepik.com/foto-gratis/limpie-calles-ciudad-praga_23-2149417730.jpg?t=st=1727859968~exp=1727863568~hmac=e793e99beb063cfeef35bd4430481c2411fe78a5aae96e6b4d11a7edbfb0cc1c&w=2000",
       "stamps": [
         "url"
       ]
     }
   ],
   "recommendations": [
-    {
-      "title": "",
-      "description": "",
-      "date": "",
-      "companion": "",
-      "usuario": "",
-      "category": "",
-      "image": "",
-      "id": 3
-    },
-    {
-      "title": "asaaaa",
-      "description": "f sahvmgfdqxaK<Z",
-      "date": "2024-09-11",
-      "companion": "family",
-      "usuario": "dddss",
-      "category": "hidden places ",
-      "image": "",
-      "id": 4
-    },
-    {
-      "cityId": "1001",
-      "title": "aaaa",
-      "description": "aa",
-      "date": "2024-10-09",
-      "companion": "traveler",
-      "usuario": "aaa",
-      "category": "hidden places ",
-      "image": "aa",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-      "id": 5
-    },
+   
     {
       "cityId": "1004",
       "title": "Parc Güell",
@@ -156,14 +126,10 @@
       "category": "hidden places ",
       "image": "https://cdn-imgix.headout.com/mircobrands-content/image/a2ac0d0fbdb3173763ff85f7de5a000e-AdobeStock_39353446.jpeg",
       "stamp": "",
-      "id": 6
+      "id": 12
     },
     {
-      "cityId": "1005",
-      "title": "torre Eiffel  ",
-      "description": "ljkhlijhbn",
-      "date": "2024-10-10",
-      "companion": "traveler",
+      "cityId": "1001",
       "title": "London Eye ",
       "description": "It was worth the wait, it was my favorite view of London",
       "date": "2024-06-06",
@@ -172,64 +138,31 @@
       "category": "experience",
       "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
       "stamp": "",
-      "id": 7
+      "id": 13
     },
+    
+    
     {
-      "cityId": "1001",
-      "title": "torre Eiffel  ",
-      "description": "hfvkjcfhbbjn",
-      "date": "2024-10-03",
-      "companion": "family",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
-      "id": 1
+        "cityId": "1001",
+        "title": "Tower of London",
+        "description": "A must-visit for history enthusiasts! The Crown Jewels and the medieval architecture made me feel like I was stepping back in time. Definitely recommend taking the guided tour to hear fascinating stories about the Tower's past.",
+        "date": "2024-03-08",
+        "companion": "solo traveler",
+        "usuario": "John",
+        "category": "Experience", 
+        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
+        "id": 1
     },
     {
       "cityId": "1002",
-      "title": "torre Eiffel",
-      "description": "prueba",
+      "title": "Sacré Cœur",
+      "description": "On my last day in Paris, this sunset will remain etched in my memory forever. In the plaza of the Sacré-Cœur Basilica, people sing and dance under a beautiful orange sky.",
+       "date": "2024-10-11",
       "companion": "friends",
       "usuario": "Andres",
-      "category": "experience",
-      "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-      "id": 8
-    },
-    {
-      "cityId": "1002",
-      "title": "Torre Eiffel",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
-      "date": "2024-10-17",
-      "companion": "family",
-      "usuario": "Angela",
-      "category": "hidden places ",
-      "image": "https://viajes.nationalgeographic.com.es/medio/2024/02/14/torre-eiffel_6e9796fd_278483323_240214093442_1280x853.jpg",
-      "stamp": "",
-      "id": 9
-    },
-    {
-      "cityId": "1002",
-      "title": "Puente de Alexandre",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
-      "date": "2024-11-01",
-      "companion": "traveler",
-      "usuario": "Angela",
-      "category": "hidden places ",
-      "image": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1611316141/mqzlzcn9u3jkdczwjfm3.jpg",
-      "stamp": "",
-      "id": 10
-    },
-    {
-      "cityId": "1001",
-      "title": "London Eye",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
-      "date": "2024-10-04",
-      "companion": "patner",
-      "usuario": "Angela",
-      "category": "hidden places ",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLK93Qd_gY_OTHhVZ2farKX-7R0k59w0IFtA&s",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-      "id": 11
+      "category": "Experience",
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "id": 2
     }
   ]
 }
