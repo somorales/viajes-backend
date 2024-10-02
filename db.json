@@ -9,8 +9,8 @@
       "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/3592501.jpg",
       "stamps": [
         "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png"
+        "https://img.freepik.com/vector-premium/famoso-big-ben-londres-sello-postal-grunge-ilustracion-vectorial_102712-720.jpg?w=1380",
+        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/851.png"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "id": "1002",
       "tip": "✈️ Don't Miss: Enjoy the Eiffel Tower lit up at night and explore the Louvre.",
       "fact": "📍 Fun Fact: Paris has more dogs than children! It's one of the most pet-friendly cities in the world.",
-      "image": "url",
+      "image": "https://a.eu.mktgcdn.com/f/100004519/N2BB4ohwclor2uLoZ7XMHgJmxOZaMOokMdQqqXQAq3s.jpg",
       "stamps": [
         "url"
       ]
@@ -164,6 +164,10 @@
       "description": "ljkhlijhbn",
       "date": "2024-10-10",
       "companion": "traveler",
+      "title": "London Eye ",
+      "description": "It was worth the wait, it was my favorite view of London",
+      "date": "2024-06-06",
+      "companion": "solo traveler",
       "usuario": "Andres",
       "category": "experience",
       "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
@@ -176,6 +180,15 @@
       "description": "hfvkjcfhbbjn",
       "date": "2024-10-03",
       "companion": "family",
+      "category": "Experience",
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "id": 1
+    },
+    {
+      "cityId": "1002",
+      "title": "torre Eiffel",
+      "description": "prueba",
+      "companion": "friends",
       "usuario": "Andres",
       "category": "experience",
       "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
