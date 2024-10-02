@@ -8,9 +8,8 @@
       "fact": "📍 Fun Fact: Did you know London is home to over 170 museums? Plus, Big Ben is actually the name of the bell, not the clock!",
       "image": "https://static.eldiario.es/clip/ac5016f6-7afd-43f8-9d87-f38c82e5a9f1_16-9-discover-aspect-ratio_default_0.jpg",
       "stamps": [
-        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-        "https://img.freepik.com/vector-premium/famoso-big-ben-londres-sello-postal-grunge-ilustracion-vectorial_102712-720.jpg?w=1380",
-        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/851.png"
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_london_0.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Untitled.png"
       ]
     },
     {
@@ -43,8 +42,9 @@
       "tip": "✈️ Don't Miss: Stroll along Las Ramblas and explore Park Güell.",
       "fact": "📍 Fun Fact: The Sagrada Familia has been under construction since 1882 and is still not finished!",
       "image": "https://mediaim.expedia.com/destination/9/79f7d5913147f2026da413aa7739b1de.jpg",
-      "stamps": [
-        "url"
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona%201.png",
+      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png"
+       
       ]
     },
     {
@@ -75,7 +75,7 @@
       "id": "1007",
       "tip": "✈️ Don't Miss: Take a gondola ride along the canals at sunset.",
       "fact": "📍 Fun Fact: Venice has over 400 bridges, but only 4 cross the Grand Canal.",
-      "image": "https://img.freepik.com/foto-gratis/disparo-alto-angulo-gondolas-estacionadas-canal-venecia-italia_181624-11120.jpg?t=st=1727860730~exp=1727864330~hmac=da0f6c76d2421c82666f512d97a24f8ece68f44dd194d1ab1300943303743bf3&w=2000",
+      "image": "https://tourismmedia.italia.it/is/image/mitur/20210324173545-venezia-ponte-2?wid=1080&hei=660&fit=constrain,1&fmt=webp",
       "stamps": [
         "url"
       ]
@@ -108,9 +108,9 @@
       "id": "1010",
       "tip": "✈️ Don't Miss: Visit the Prater Park and try the famous Sachertorte at one of its historic cafés.",
       "fact": "📍 Fun Fact: Vienna is known as the 'City of Music,' home to Mozart, Beethoven, and Schubert.",
-      "image": "https://img.freepik.com/foto-gratis/limpie-calles-ciudad-praga_23-2149417730.jpg?t=st=1727859968~exp=1727863568~hmac=e793e99beb063cfeef35bd4430481c2411fe78a5aae96e6b4d11a7edbfb0cc1c&w=2000",
-      "stamps": [
-        "url"
+      "image": "https://viajes.nationalgeographic.com.es/medio/2018/10/15/hofburg-palacio-imperial-viena_02ef1035_1500x959.jpg",
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.png",
+      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg"
       ]
     }
   ],
@@ -124,26 +124,25 @@
       "usuario": "Andres",
       "category": "Experience",
       "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_london_0.png",
       "id": 1
     },
-
-    
     {
-        "cityId": "1001",
-        "title": "Tower of London",
-        "description": "A must-visit for history enthusiasts! The Crown Jewels and the medieval architecture made me feel like I was stepping back in time. Definitely recommend taking the guided tour to hear fascinating stories about the Tower's past.",
-        "date": "2024-03-08",
-        "companion": "solo traveler",
-        "usuario": "John",
-        "category": "Experience", 
-        "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
-        "id": 2 
+      "cityId": "1001",
+      "title": "Tower of London",
+      "description": "A must-visit for history enthusiasts! The Crown Jewels and the medieval architecture made me feel like I was stepping back in time. Definitely recommend taking the guided tour to hear fascinating stories about the Tower's past.",
+      "date": "2024-03-08",
+      "companion": "solo traveler",
+      "usuario": "John",
+      "category": "Experience",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
+      "id": 2
     },
     {
       "cityId": "1002",
       "title": "Sacré Cœur",
       "description": "On my last day in Paris, this sunset will remain etched in my memory forever. In the plaza of the Sacré-Cœur Basilica, people sing and dance under a beautiful orange sky.",
-       "date": "2024-10-11",
+      "date": "2024-10-11",
       "companion": "friends",
       "usuario": "Andres",
       "category": "experience",
@@ -151,40 +150,39 @@
       "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
       "id": 3
     },
-    
     {
-        "cityId": "1002",
-        "title": "Place du Tertre",
-        "description": "Strolling through Montmartre, I found myself in the lively Place du Tertre, where artists filled the square with color and creativity. I watched painters at work, each capturing the soul of Paris in their own style. It was a magical moment that felt like stepping into a postcard, one I’ll never forget.",
-        "date": "2023-04-15",
-        "companion": "friends",
-        "usuario": "Clara",
-        "category": "experience",
-        "image": "https://media.istockphoto.com/id/505492312/photo/the-place-du-tertre.jpg?s=612x612&w=0&k=20&c=z54NIe5kggdChoznsRxWLTvCI4ydaA9lM-BQY9lfLpE=",
-        "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
-        "id": 4
-      },
-      {
-        "cityId": "1003",
-        "title": "Giardino degli Aranci",
-        "description": "I found this hidden gem in Rome called Giardino degli Aranci on Aventine Hill. It's so peaceful and has an incredible view of St. Peter’s Basilica, especially at sunset. Felt like I had the whole place to myself!",
-        "date": "2023-01-07",
-        "companion": "family",
-        "usuario": "Laura",
-        "category": "Hidden place", 
-        "image": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2016/04/roma-aventino.jpg",
-        "id": 5 
-      },
-      {
-        "cityId": "1003",
-        "title": "Quartiere Coppedè",
-        "description": "Onmy trip to Rome I found this amazing corner,it's like stepping into a fairytale with its quirky, stunning architecture. No crowds, just a magical little neighborhood perfect for a quiet afternoon stroll.",
-        "date": "2024-07-14",
-        "companion": "friends",
-        "usuario": "Sally",
-        "category": "Hidden place", 
-        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/f3/5d/0c/caption.jpg",
-        "id": 6 
+      "cityId": "1002",
+      "title": "Place du Tertre",
+      "description": "Strolling through Montmartre, I found myself in the lively Place du Tertre, where artists filled the square with color and creativity. I watched painters at work, each capturing the soul of Paris in their own style. It was a magical moment that felt like stepping into a postcard, one I’ll never forget.",
+      "date": "2023-04-15",
+      "companion": "friends",
+      "usuario": "Clara",
+      "category": "experience",
+      "image": "https://media.istockphoto.com/id/505492312/photo/the-place-du-tertre.jpg?s=612x612&w=0&k=20&c=z54NIe5kggdChoznsRxWLTvCI4ydaA9lM-BQY9lfLpE=",
+      "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
+      "id": 4
+    },
+    {
+      "cityId": "1003",
+      "title": "Giardino degli Aranci",
+      "description": "I found this hidden gem in Rome called Giardino degli Aranci on Aventine Hill. It's so peaceful and has an incredible view of St. Peter’s Basilica, especially at sunset. Felt like I had the whole place to myself!",
+      "date": "2023-01-07",
+      "companion": "family",
+      "usuario": "Laura",
+      "category": "Hidden place",
+      "image": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2016/04/roma-aventino.jpg",
+      "id": 5
+    },
+    {
+      "cityId": "1003",
+      "title": "Quartiere Coppedè",
+      "description": "Onmy trip to Rome I found this amazing corner,it's like stepping into a fairytale with its quirky, stunning architecture. No crowds, just a magical little neighborhood perfect for a quiet afternoon stroll.",
+      "date": "2024-07-14",
+      "companion": "friends",
+      "usuario": "Sally",
+      "category": "Hidden place",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/f3/5d/0c/caption.jpg",
+      "id": 6
     },
     {
       "cityId": "1003",
@@ -193,47 +191,106 @@
       "date": "2024-09-14",
       "companion": "friends",
       "usuario": "Jim",
-      "category": "Drink & drinks", 
+      "category": "Drink & drinks",
       "image": "https://issimoissimo.com/wp-content/uploads/2020/10/10-1.jpg",
-      "id": 7 
-  },
+      "id": 7
+    },
+    {
+      "cityId": "1004",
+      "title": "A little oasis.",
+      "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
+      "date": "2023-04-15",
+      "companion": "friends",
+      "usuario": "Clara",
+      "category": "experience",
+      "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
+      "stamp":  "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png",
+      "id": 8
+    },
+    {
+      "cityId": "1005",
+      "title": "canal cruise at sunset. ",
+      "description": "I took a canal cruise in Amsterdam at sunset, and it was absolutely magical. The way the golden light hit the water, reflecting off the old brick houses, made the whole city glow. Gliding through the canals felt peaceful, and passing by spots like the Anne Frank House and Westerkerk gave the ride a special touch. It was the perfect way to unwind and see Amsterdam from a completely different perspective!",
+      "date": "2024-06-15",
+      "companion": "friends",
+      "usuario": "Olena",
+      "category": "Experience",
+      "image": "https://amsterdamexperiences.nl/wp-content/uploads/2020/05/CVR_6422-scaled-e1590359144271.jpg",
+      "stamp": "",
+      "id": 9
+    },
+    {
+        "cityId": "1006",
+        "title": "Konnopke’s Imbiss",
+        "description": "Located under the Eberswalder Straße bridge, Konnopke’s Imbiss is one of Berlin’s most iconic spots to try the famous currywurst. With a history dating back to 1930, this family-run kiosk has been serving locals and tourists alike with their unique take on Berlin's signature street food. The combination of sausage, spicy ketchup, and curry powder makes for a quintessential Berlin experience.",
+        "date": "2023-08-12",
+        "companion": "friends",
+        "usuario": "Lukas",
+        "category":"Drink & drinks",
+        "image": "https://cdn2.site-media.eu/images/1680,1298x710%2B118%2B60/1424327/DSCF9960_CE_16x9.jpg",
+        "stamp": "",
+        "id": 6
+      },
 
-  {
-    "cityId": "1004",
-    "title": "A little oasis.",
-    "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
-   "date": "2023-04-15",
-    "companion": "friends",
-    "usuario": "Clara",
-    "category": "experience",
-    "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
-    "stamp": "",
-    "id": 8
-  },
+    
 
-  {
-    "cityId": "1005",
-    "title": "canal cruise at sunset. ",
-    "description": "I took a canal cruise in Amsterdam at sunset, and it was absolutely magical. The way the golden light hit the water, reflecting off the old brick houses, made the whole city glow. Gliding through the canals felt peaceful, and passing by spots like the Anne Frank House and Westerkerk gave the ride a special touch. It was the perfect way to unwind and see Amsterdam from a completely different perspective!",
-    "date": "2024-06-15",
-    "companion": "friends",
-    "usuario": "Olena",
-    "category": "Experience", 
-    "image": "https://amsterdamexperiences.nl/wp-content/uploads/2020/05/CVR_6422-scaled-e1590359144271.jpg",
-    "id": 9 
-},
+      {
+        "cityId": "1007",
+        "title": "Gondola Ride through the Grand Canal",
+        "description": "Gliding through the serene waters of the Grand Canal in a gondola was like stepping into a dream. The historic palazzos on either side, the gentle sway of the boat, and the gondolier singing softly made the experience unforgettable. As the sun set, the city took on a golden glow, reflecting beautifully off the water.",
+        "date": "2020-07-22",
+        "companion": "partner",
+        "usuario": "Isabella",
+        "category": "experience",
+        "image": "https://media1.thrillophilia.com/filestore/w7kv1pb6ogon2auy09fhlsibsqfb_shutterstock_696042793.jpg?w=400&dpr=2",
+        "stamp": "url",
+        "id": 12
+      },
 
-{
-    "cityId": "1006",
-    "title": "A little oasis.",
-    "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
-   "date": "2023-04-15",
-    "companion": "friends",
-    "usuario": "Clara",
-    "category": "experience",
-    "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
-    "stamp": "",
-    "id": 10
-  }
+
+      {
+        "cityId": "1008",
+        "title": "Sobrino de Botín",
+        "description": "In the heart of Madrid, Sobrino de Botín, recognized by the Guinness World Records as the oldest restaurant in the world, offers a truly unique dining experience. Famous for its roast suckling pig, each bite takes you on a journey through Madrid’s rich culinary tradition. The classic and cozy atmosphere transports you to another era, making it the perfect spot for an unforgettable meal.",
+        "date": "2023-09-18",
+        "companion": "family",
+        "usuario": "Jorge",
+        "category": "Drink & drinks",
+        "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/349000/349378-Sobrino-De-Botin.jpg",
+        "stamp": "url",
+        "id": 13
+      },
+
+
+
+      {
+        "cityId": "1009",
+        "title": "Walking Across Charles Bridge at Dawn",
+        "description": "Early in the morning, with a light mist still lingering over the Vltava River, I strolled across the Charles Bridge. The statues seemed to come alive in the soft light of dawn, and the view of the Prague Castle in the distance was breathtaking. It felt like I had the entire city to myself, a quiet and magical moment that I’ll always cherish.",
+        "date": "2019-09-10",
+        "companion": "solo traveler ",
+        "usuario": "Lukas",
+        "category": "experience",
+        "image":  "https://www.shutterstock.com/image-photo/beautiful-early-morning-dawn-twilight-600nw-2081961940.jpg" ,
+        "stamp": "url",
+        "id": 14
+      },
+
+      {
+        "cityId": "1010",
+        "title": "Schönbrunn Palace",
+        "description": "Wandering through the gardens of Schönbrunn Palace, I was transported to a different era. The grandeur of the palace, combined with the serenity of the beautifully manicured gardens, made me feel like royalty. Watching the sunset over the Gloriette was the perfect way to end the day.",
+        "date": "2023-08-10",
+        "companion": "family",
+        "usuario": "Lukas",
+        "category": "experience",
+        "image": "https://www.planetware.com/photos-large/A/schonbrunn-palace.jpg",
+        "stamp":"https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg",
+        "id": 15
+      }
+
+
+
+
   ]
 }
