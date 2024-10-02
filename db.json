@@ -64,7 +64,7 @@
       "id": "1006",
       "tip": "✈️ Don't Miss: Visit the Berlin Wall and the Reichstag.",
       "fact": "📍 Fun Fact: Berlin’s nightlife lasts all weekend long, and the city is nine times bigger than Paris.",
-      "image": "https://img.freepik.com/foto-gratis/construccion-columnas_1160-803.jpg?t=st=1727860574~exp=1727864174~hmac=e5e538517de250ad249c0cd21d449ca360b679b938bdc9057f1deea4facd7861&w=2000",
+      "image": "https://viajes.nationalgeographic.com.es/medio/2017/02/09/qpx-152378209_cbb96df3.jpg",
       "stamps": [
         "url"
       ]
@@ -97,7 +97,7 @@
       "id": "1009",
       "tip": "✈️ Don't Miss: Walk across the Charles Bridge and admire the Prague Castle.",
       "fact": "📍 Fun Fact: The Prague Astronomical Clock is the oldest in the world, operating since 1410.",
-      "image": "https://img.freepik.com/foto-gratis/noche-praga_268835-846.jpg?t=st=1727860377~exp=1727863977~hmac=bcfd49d5640a6eb713ae18713b24b5947b3b5796ae5dd5a0a3d969d8ec4881a1&w=2000",
+      "image": "https://github.com/somorales/viajes-imagenes/blob/main/night-prague.jpg?raw=true",
       "stamps": [
         "url"
       ]
@@ -115,19 +115,6 @@
     }
   ],
   "recommendations": [
-   
-    {
-      "cityId": "1004",
-      "title": "Parc Güell",
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis accusantium suscipit saepe officiis porro aliquam totam ab pariatur cumque eveniet dolore molestiae, nemo voluptatem quos exercitationem? Minima, asperiores iusto?",
-      "date": "2024-10-16",
-      "companion": "patner",
-      "usuario": "Angela",
-      "category": "hidden places ",
-      "image": "https://cdn-imgix.headout.com/mircobrands-content/image/a2ac0d0fbdb3173763ff85f7de5a000e-AdobeStock_39353446.jpeg",
-      "stamp": "",
-      "id": 12
-    },
     {
       "cityId": "1001",
       "title": "London Eye ",
@@ -135,12 +122,11 @@
       "date": "2024-06-06",
       "companion": "solo traveler",
       "usuario": "Andres",
-      "category": "experience",
-      "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
-      "stamp": "",
-      "id": 13
+      "category": "Experience",
+      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
+      "id": 1
     },
-    
+
     
     {
         "cityId": "1001",
@@ -151,7 +137,7 @@
         "usuario": "John",
         "category": "Experience", 
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
-        "id": 1
+        "id": 2 
     },
     {
       "cityId": "1002",
@@ -160,9 +146,94 @@
        "date": "2024-10-11",
       "companion": "friends",
       "usuario": "Andres",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
-      "id": 2
-    }
+      "category": "experience",
+      "image": "https://tripuniq.com/media/Picture/2017/11/89d5872c-675b-47b8-9941-5f024a60235d.jpg",
+      "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
+      "id": 3
+    },
+    
+    {
+        "cityId": "1002",
+        "title": "Place du Tertre",
+        "description": "Strolling through Montmartre, I found myself in the lively Place du Tertre, where artists filled the square with color and creativity. I watched painters at work, each capturing the soul of Paris in their own style. It was a magical moment that felt like stepping into a postcard, one I’ll never forget.",
+        "date": "2023-04-15",
+        "companion": "friends",
+        "usuario": "Clara",
+        "category": "experience",
+        "image": "https://media.istockphoto.com/id/505492312/photo/the-place-du-tertre.jpg?s=612x612&w=0&k=20&c=z54NIe5kggdChoznsRxWLTvCI4ydaA9lM-BQY9lfLpE=",
+        "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
+        "id": 4
+      },
+      {
+        "cityId": "1003",
+        "title": "Giardino degli Aranci",
+        "description": "I found this hidden gem in Rome called Giardino degli Aranci on Aventine Hill. It's so peaceful and has an incredible view of St. Peter’s Basilica, especially at sunset. Felt like I had the whole place to myself!",
+        "date": "2023-01-07",
+        "companion": "family",
+        "usuario": "Laura",
+        "category": "Hidden place", 
+        "image": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2016/04/roma-aventino.jpg",
+        "id": 5 
+      },
+      {
+        "cityId": "1003",
+        "title": "Quartiere Coppedè",
+        "description": "Onmy trip to Rome I found this amazing corner,it's like stepping into a fairytale with its quirky, stunning architecture. No crowds, just a magical little neighborhood perfect for a quiet afternoon stroll.",
+        "date": "2024-07-14",
+        "companion": "friends",
+        "usuario": "Sally",
+        "category": "Hidden place", 
+        "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/f3/5d/0c/caption.jpg",
+        "id": 6 
+    },
+    {
+      "cityId": "1003",
+      "title": "Da Enzo al 29 ristorante",
+      "description": "I discovered this amazing restaurant in Rome called Da Enzo al 29. It’s a cozy, family-run spot in Trastevere, and the food is incredible—authentic Roman dishes like carbonara and cacio e pepe. The ingredients are super fresh, and the atmosphere feels like a true local experience. Make sure to try their tiramisu!",
+      "date": "2024-09-14",
+      "companion": "friends",
+      "usuario": "Jim",
+      "category": "Drink & drinks", 
+      "image": "https://issimoissimo.com/wp-content/uploads/2020/10/10-1.jpg",
+      "id": 7 
+  },
+
+  {
+    "cityId": "1004",
+    "title": "A little oasis.",
+    "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
+   "date": "2023-04-15",
+    "companion": "friends",
+    "usuario": "Clara",
+    "category": "experience",
+    "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
+    "stamp": "",
+    "id": 8
+  },
+
+  {
+    "cityId": "1005",
+    "title": "canal cruise at sunset. ",
+    "description": "I took a canal cruise in Amsterdam at sunset, and it was absolutely magical. The way the golden light hit the water, reflecting off the old brick houses, made the whole city glow. Gliding through the canals felt peaceful, and passing by spots like the Anne Frank House and Westerkerk gave the ride a special touch. It was the perfect way to unwind and see Amsterdam from a completely different perspective!",
+    "date": "2024-06-15",
+    "companion": "friends",
+    "usuario": "Olena",
+    "category": "Experience", 
+    "image": "https://amsterdamexperiences.nl/wp-content/uploads/2020/05/CVR_6422-scaled-e1590359144271.jpg",
+    "id": 9 
+},
+
+{
+    "cityId": "1006",
+    "title": "A little oasis.",
+    "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
+   "date": "2023-04-15",
+    "companion": "friends",
+    "usuario": "Clara",
+    "category": "experience",
+    "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
+    "stamp": "",
+    "id": 10
+  }
   ]
 }
