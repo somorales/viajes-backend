@@ -231,17 +231,6 @@
     },
     {
       "cityId": "1002",
-      "title": "torre Eiffel",
-      "description": "prueba",
-      "companion": "friends",
-      "usuario": "Andres",
-      "category": "experience",
-      "image": "https://camo.githubusercontent.com/eb65ab657b51f350cefdd25baa397c3dfe96e89df89e03c0f13f594cff8d459c/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d72656163742d666f726d732f497465726174696f6e2b322e706e67",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/estampa-prueba.png",
-      "id": 11
-    },
-    {
-      "cityId": "1002",
       "title": "Torre Eiffel",
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quia. At commodi dolorum ea ratione? Aliquam excepturi, ut quo, est qui commodi magni necessitatibus unde dicta, libero velit ipsa voluptatibus",
       "date": "2024-10-17",
