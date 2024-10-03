@@ -55,8 +55,9 @@
       "tip": "✈️ Don't Miss: Cruise along the famous canals by boat or bike.",
       "fact": "📍 Fun Fact: There are more bicycles than people in Amsterdam!",
       "image": "https://media.traveler.es/photos/6231abc7d03e1c5549e648ca/16:9/w_2560%2Cc_limit/The%2520Best%2520Places%2520for%2520Female%2520Solo%2520Travelers_Amsterdam_GettyImages-923546342.jpg",
-      "stamps": [ "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Amsterdan%201.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Amsterdan%202.png"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Amsterdan%201.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Amsterdan%202.png"
       ]
     },
     {
@@ -102,8 +103,9 @@
       "tip": "✈️ Don't Miss: Walk across the Charles Bridge and admire the Prague Castle.",
       "fact": "📍 Fun Fact: The Prague Astronomical Clock is the oldest in the world, operating since 1410.",
       "image": "https://github.com/somorales/viajes-imagenes/blob/main/night-prague.jpg?raw=true",
-      "stamps": [ "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/praga.jpg",
-      "https://github.com/somorales/viajes-imagenes/blob/main/praga%201.png"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/praga.jpg",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/praga%201.png"
       ]
     },
     {
@@ -122,18 +124,6 @@
   "recommendations": [
     {
       "cityId": "1001",
-      "title": "London Eye ",
-      "description": "It was worth the wait, it was my favorite view of London",
-      "date": "2024-06-06",
-      "companion": "solo traveler",
-      "usuario": "Andres",
-      "category": "Experience",
-      "image": "https://s1.it.atcdn.net/wp-content/uploads/2023/05/HEROLondon-Eye-800x600.jpg",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_london_0.png",
-      "id": 1
-    },
-    {
-      "cityId": "1001",
       "title": "Tower of London",
       "description": "A must-visit for history enthusiasts! The Crown Jewels and the medieval architecture made me feel like I was stepping back in time. Definitely recommend taking the guided tour to hear fascinating stories about the Tower's past.",
       "date": "2024-03-08",
@@ -141,7 +131,8 @@
       "usuario": "John",
       "category": "Experience",
       "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
-      "id": 2
+      "id": 2,
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Untitled.png"
     },
     {
       "cityId": "1002",
@@ -152,7 +143,7 @@
       "usuario": "Andres",
       "category": "experience",
       "image": "https://tripuniq.com/media/Picture/2017/11/89d5872c-675b-47b8-9941-5f024a60235d.jpg",
-      "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/paris2.png",
       "id": 3
     },
     {
@@ -164,7 +155,7 @@
       "usuario": "Clara",
       "category": "experience",
       "image": "https://media.istockphoto.com/id/505492312/photo/the-place-du-tertre.jpg?s=612x612&w=0&k=20&c=z54NIe5kggdChoznsRxWLTvCI4ydaA9lM-BQY9lfLpE=",
-      "stamp": "https://i.pinimg.com/564x/4d/af/f9/4daff984ca846467d62f7ae6fe18f32e.jpg",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_city_Paris_francia_vintage_2.png",
       "id": 4
     },
     {
@@ -176,7 +167,8 @@
       "usuario": "Laura",
       "category": "Hidden place",
       "image": "https://staticfanpage.akamaized.net/wp-content/uploads/sites/2/2016/04/roma-aventino.jpg",
-      "id": 5
+      "id": 5,
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma%202.png"
     },
     {
       "cityId": "1003",
@@ -187,7 +179,8 @@
       "usuario": "Sally",
       "category": "Hidden place",
       "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/f3/5d/0c/caption.jpg",
-      "id": 6
+      "id": 6,
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma%202.png"
     },
     {
       "cityId": "1003",
@@ -198,7 +191,8 @@
       "usuario": "Jim",
       "category": "Drink & drinks",
       "image": "https://issimoissimo.com/wp-content/uploads/2020/10/10-1.jpg",
-      "id": 7
+      "id": 7,
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png"
     },
     {
       "cityId": "1004",
@@ -221,7 +215,7 @@
       "usuario": "Olena",
       "category": "Experience",
       "image": "https://amsterdamexperiences.nl/wp-content/uploads/2020/05/CVR_6422-scaled-e1590359144271.jpg",
-      "stamp": "",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Amsterdan%202.png",
       "id": 9
     },
     {
@@ -233,7 +227,7 @@
       "usuario": "Lukas",
       "category": "Drink & drinks",
       "image": "https://cdn2.site-media.eu/images/1680,1298x710%2B118%2B60/1424327/DSCF9960_CE_16x9.jpg",
-      "stamp": "",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png",
       "id": 6
     },
     {
@@ -245,7 +239,7 @@
       "usuario": "Isabella",
       "category": "experience",
       "image": "https://media1.thrillophilia.com/filestore/w7kv1pb6ogon2auy09fhlsibsqfb_shutterstock_696042793.jpg?w=400&dpr=2",
-      "stamp": "url",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Venecia.png",
       "id": 12
     },
     {
@@ -257,7 +251,7 @@
       "usuario": "Jorge",
       "category": "Drink & drinks",
       "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/349000/349378-Sobrino-De-Botin.jpg",
-      "stamp": "url",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/madrid.png",
       "id": 13
     },
     {
@@ -269,7 +263,7 @@
       "usuario": "Lukas",
       "category": "experience",
       "image": "https://www.shutterstock.com/image-photo/beautiful-early-morning-dawn-twilight-600nw-2081961940.jpg",
-      "stamp": "url",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/praga%201.png",
       "id": 14
     },
     {
@@ -285,14 +279,14 @@
       "id": 15
     },
     {
-      "cityId": "1001",
-      "title": "trtr",
-      "description": "ryryre",
-      "date": "2024-10-10",
+      "cityId": "1009",
+      "title": "jgjg",
+      "description": "hkjk",
+      "date": "2024-10-09",
       "companion": "family",
-      "usuario": "herhrt",
-      "category": "experience",
-      "image": "ryryry",
+      "usuario": "ljljl",
+      "category": "hidden places ",
+      "image": "hkh",
       "stamp": "",
       "id": 16
     }
