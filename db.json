@@ -31,8 +31,8 @@
       "tip": "✈️ Don't Miss: Toss a coin in the Trevi Fountain to ensure your return to this eternal city.",
       "fact": "📍 Fun Fact: Rome has over 2,000 fountains, including the iconic Trevi Fountain.",
       "image": "https://www.enroma.com/wp-content/uploads/2021/02/Roma-en-3-d%C3%ADas.jpg",
-      "stamps": [
-        "url"
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma%202.png",
+      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png"
       ]
     },
     {
@@ -65,8 +65,8 @@
       "tip": "✈️ Don't Miss: Visit the Berlin Wall and the Reichstag.",
       "fact": "📍 Fun Fact: Berlin’s nightlife lasts all weekend long, and the city is nine times bigger than Paris.",
       "image": "https://viajes.nationalgeographic.com.es/medio/2017/02/09/qpx-152378209_cbb96df3.jpg",
-      "stamps": [
-        "url"
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%20.png",
+      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png"
       ]
     },
     {
@@ -76,8 +76,8 @@
       "tip": "✈️ Don't Miss: Take a gondola ride along the canals at sunset.",
       "fact": "📍 Fun Fact: Venice has over 400 bridges, but only 4 cross the Grand Canal.",
       "image": "https://tourismmedia.italia.it/is/image/mitur/20210324173545-venezia-ponte-2?wid=1080&hei=660&fit=constrain,1&fmt=webp",
-      "stamps": [
-        "url"
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/venecia%202.png",
+      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Venecia.png"
       ]
     },
     {
@@ -87,8 +87,8 @@
       "tip": "✈️ Don't Miss: Relax in Retiro Park and visit the Royal Palace.",
       "fact": "📍 Fun Fact: Madrid is home to the world’s oldest restaurant, Casa Botín, open since 1725.",
       "image": "https://services.meteored.com/img/article/donde-ver-los-mejores-atardeceres-de-madrid-1709839193844_1280.jpeg",
-      "stamps": [
-        "url"
+      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/madrid.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_city_madrid_espaa_1.png"
       ]
     },
     {
