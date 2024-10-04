@@ -31,8 +31,9 @@
       "tip": "✈️ Don't Miss: Toss a coin in the Trevi Fountain to ensure your return to this eternal city.",
       "fact": "📍 Fun Fact: Rome has over 2,000 fountains, including the iconic Trevi Fountain.",
       "image": "https://www.enroma.com/wp-content/uploads/2021/02/Roma-en-3-d%C3%ADas.jpg",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma%202.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma%202.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png"
       ]
     },
     {
@@ -42,9 +43,9 @@
       "tip": "✈️ Don't Miss: Stroll along Las Ramblas and explore Park Güell.",
       "fact": "📍 Fun Fact: The Sagrada Familia has been under construction since 1882 and is still not finished!",
       "image": "https://mediaim.expedia.com/destination/9/79f7d5913147f2026da413aa7739b1de.jpg",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona%201.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png"
-       
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona%201.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png"
       ]
     },
     {
@@ -65,8 +66,9 @@
       "tip": "✈️ Don't Miss: Visit the Berlin Wall and the Reichstag.",
       "fact": "📍 Fun Fact: Berlin’s nightlife lasts all weekend long, and the city is nine times bigger than Paris.",
       "image": "https://viajes.nationalgeographic.com.es/medio/2017/02/09/qpx-152378209_cbb96df3.jpg",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%20.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%20.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png"
       ]
     },
     {
@@ -76,8 +78,9 @@
       "tip": "✈️ Don't Miss: Take a gondola ride along the canals at sunset.",
       "fact": "📍 Fun Fact: Venice has over 400 bridges, but only 4 cross the Grand Canal.",
       "image": "https://tourismmedia.italia.it/is/image/mitur/20210324173545-venezia-ponte-2?wid=1080&hei=660&fit=constrain,1&fmt=webp",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/venecia%202.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Venecia.png"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/venecia%202.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Venecia.png"
       ]
     },
     {
@@ -87,7 +90,8 @@
       "tip": "✈️ Don't Miss: Relax in Retiro Park and visit the Royal Palace.",
       "fact": "📍 Fun Fact: Madrid is home to the world’s oldest restaurant, Casa Botín, open since 1725.",
       "image": "https://services.meteored.com/img/article/donde-ver-los-mejores-atardeceres-de-madrid-1709839193844_1280.jpeg",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/madrid.png",
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/madrid.png",
         "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_city_madrid_espaa_1.png"
       ]
     },
@@ -109,8 +113,9 @@
       "tip": "✈️ Don't Miss: Visit the Prater Park and try the famous Sachertorte at one of its historic cafés.",
       "fact": "📍 Fun Fact: Vienna is known as the 'City of Music,' home to Mozart, Beethoven, and Schubert.",
       "image": "https://viajes.nationalgeographic.com.es/medio/2018/10/15/hofburg-palacio-imperial-viena_02ef1035_1500x959.jpg",
-      "stamps": ["https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.png",
-      "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg"
+      "stamps": [
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.png",
+        "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg"
       ]
     }
   ],
@@ -204,7 +209,7 @@
       "usuario": "Clara",
       "category": "experience",
       "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
-      "stamp":  "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png",
       "id": 8
     },
     {
@@ -220,77 +225,64 @@
       "id": 9
     },
     {
-        "cityId": "1006",
-        "title": "Konnopke’s Imbiss",
-        "description": "Located under the Eberswalder Straße bridge, Konnopke’s Imbiss is one of Berlin’s most iconic spots to try the famous currywurst. With a history dating back to 1930, this family-run kiosk has been serving locals and tourists alike with their unique take on Berlin's signature street food. The combination of sausage, spicy ketchup, and curry powder makes for a quintessential Berlin experience.",
-        "date": "2023-08-12",
-        "companion": "friends",
-        "usuario": "Lukas",
-        "category":"Drink & drinks",
-        "image": "https://cdn2.site-media.eu/images/1680,1298x710%2B118%2B60/1424327/DSCF9960_CE_16x9.jpg",
-        "stamp": "",
-        "id": 6
-      },
-
-    
-
-      {
-        "cityId": "1007",
-        "title": "Gondola Ride through the Grand Canal",
-        "description": "Gliding through the serene waters of the Grand Canal in a gondola was like stepping into a dream. The historic palazzos on either side, the gentle sway of the boat, and the gondolier singing softly made the experience unforgettable. As the sun set, the city took on a golden glow, reflecting beautifully off the water.",
-        "date": "2020-07-22",
-        "companion": "partner",
-        "usuario": "Isabella",
-        "category": "experience",
-        "image": "https://media1.thrillophilia.com/filestore/w7kv1pb6ogon2auy09fhlsibsqfb_shutterstock_696042793.jpg?w=400&dpr=2",
-        "stamp": "url",
-        "id": 12
-      },
-
-
-      {
-        "cityId": "1008",
-        "title": "Sobrino de Botín",
-        "description": "In the heart of Madrid, Sobrino de Botín, recognized by the Guinness World Records as the oldest restaurant in the world, offers a truly unique dining experience. Famous for its roast suckling pig, each bite takes you on a journey through Madrid’s rich culinary tradition. The classic and cozy atmosphere transports you to another era, making it the perfect spot for an unforgettable meal.",
-        "date": "2023-09-18",
-        "companion": "family",
-        "usuario": "Jorge",
-        "category": "Drink & drinks",
-        "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/349000/349378-Sobrino-De-Botin.jpg",
-        "stamp": "url",
-        "id": 13
-      },
-
-
-
-      {
-        "cityId": "1009",
-        "title": "Walking Across Charles Bridge at Dawn",
-        "description": "Early in the morning, with a light mist still lingering over the Vltava River, I strolled across the Charles Bridge. The statues seemed to come alive in the soft light of dawn, and the view of the Prague Castle in the distance was breathtaking. It felt like I had the entire city to myself, a quiet and magical moment that I’ll always cherish.",
-        "date": "2019-09-10",
-        "companion": "solo traveler ",
-        "usuario": "Lukas",
-        "category": "experience",
-        "image":  "https://www.shutterstock.com/image-photo/beautiful-early-morning-dawn-twilight-600nw-2081961940.jpg" ,
-        "stamp": "url",
-        "id": 14
-      },
-
-      {
-        "cityId": "1010",
-        "title": "Schönbrunn Palace",
-        "description": "Wandering through the gardens of Schönbrunn Palace, I was transported to a different era. The grandeur of the palace, combined with the serenity of the beautifully manicured gardens, made me feel like royalty. Watching the sunset over the Gloriette was the perfect way to end the day.",
-        "date": "2023-08-10",
-        "companion": "family",
-        "usuario": "Lukas",
-        "category": "experience",
-        "image": "https://www.planetware.com/photos-large/A/schonbrunn-palace.jpg",
-        "stamp":"https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg",
-        "id": 15
-      }
-
-
-
-
+      "cityId": "1006",
+      "title": "Konnopke’s Imbiss",
+      "description": "Located under the Eberswalder Straße bridge, Konnopke’s Imbiss is one of Berlin’s most iconic spots to try the famous currywurst. With a history dating back to 1930, this family-run kiosk has been serving locals and tourists alike with their unique take on Berlin's signature street food. The combination of sausage, spicy ketchup, and curry powder makes for a quintessential Berlin experience.",
+      "date": "2023-08-12",
+      "companion": "friends",
+      "usuario": "Lukas",
+      "category": "Drink & drinks",
+      "image": "https://cdn2.site-media.eu/images/1680,1298x710%2B118%2B60/1424327/DSCF9960_CE_16x9.jpg",
+      "stamp": "",
+      "id": 6
+    },
+    {
+      "cityId": "1007",
+      "title": "Gondola Ride through the Grand Canal",
+      "description": "Gliding through the serene waters of the Grand Canal in a gondola was like stepping into a dream. The historic palazzos on either side, the gentle sway of the boat, and the gondolier singing softly made the experience unforgettable. As the sun set, the city took on a golden glow, reflecting beautifully off the water.",
+      "date": "2020-07-22",
+      "companion": "partner",
+      "usuario": "Isabella",
+      "category": "experience",
+      "image": "https://media1.thrillophilia.com/filestore/w7kv1pb6ogon2auy09fhlsibsqfb_shutterstock_696042793.jpg?w=400&dpr=2",
+      "stamp": "url",
+      "id": 12
+    },
+    {
+      "cityId": "1008",
+      "title": "Sobrino de Botín",
+      "description": "In the heart of Madrid, Sobrino de Botín, recognized by the Guinness World Records as the oldest restaurant in the world, offers a truly unique dining experience. Famous for its roast suckling pig, each bite takes you on a journey through Madrid’s rich culinary tradition. The classic and cozy atmosphere transports you to another era, making it the perfect spot for an unforgettable meal.",
+      "date": "2023-09-18",
+      "companion": "family",
+      "usuario": "Jorge",
+      "category": "Drink & drinks",
+      "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/349000/349378-Sobrino-De-Botin.jpg",
+      "stamp": "url",
+      "id": 13
+    },
+    {
+      "cityId": "1009",
+      "title": "Walking Across Charles Bridge at Dawn",
+      "description": "Early in the morning, with a light mist still lingering over the Vltava River, I strolled across the Charles Bridge. The statues seemed to come alive in the soft light of dawn, and the view of the Prague Castle in the distance was breathtaking. It felt like I had the entire city to myself, a quiet and magical moment that I’ll always cherish.",
+      "date": "2019-09-10",
+      "companion": "solo traveler ",
+      "usuario": "Lukas",
+      "category": "experience",
+      "image": "https://www.shutterstock.com/image-photo/beautiful-early-morning-dawn-twilight-600nw-2081961940.jpg",
+      "stamp": "url",
+      "id": 14
+    },
+    {
+      "cityId": "1010",
+      "title": "Schönbrunn Palace",
+      "description": "Wandering through the gardens of Schönbrunn Palace, I was transported to a different era. The grandeur of the palace, combined with the serenity of the beautifully manicured gardens, made me feel like royalty. Watching the sunset over the Gloriette was the perfect way to end the day.",
+      "date": "2023-08-10",
+      "companion": "family",
+      "usuario": "Lukas",
+      "category": "experience",
+      "image": "https://www.planetware.com/photos-large/A/schonbrunn-palace.jpg",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/viena.jpeg",
+      "id": 15
+    }
   ]
 }
