@@ -131,7 +131,7 @@
       "usuario": "John",
       "category": "Experience",
       "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/32/02/13.jpg",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/AlbedoBase_XL_Postage_Stamp_london_0.png",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Untitled.png",
       "id": 2
     },
     {
@@ -191,20 +191,8 @@
       "usuario": "Jim",
       "category": "Drink & drinks",
       "image": "https://issimoissimo.com/wp-content/uploads/2020/10/10-1.jpg",
-      "id": 7,
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png"
-    },
-    {
-      "cityId": "1004",
-      "title": "A little oasis.",
-      "description": "I spent a lovely day strolling through the Tamarita Gardens, a hidden gem in Barcelona. The peaceful atmosphere, beautiful fountains, and lush greenery made it the perfect escape from the city's hustle. It’s an ideal spot to relax, unwind, and enjoy nature in the heart of the city.",
-      "date": "2023-04-15",
-      "companion": "friends",
-      "usuario": "Clara",
-      "category": "experience",
-      "image": "https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-jardin-de-la-tamarita.jpg",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/barcelona.png",
-      "id": 8
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Roma.png",
+      "id": 7
     },
     {
       "cityId": "1005",
@@ -243,18 +231,6 @@
       "id": 12
     },
     {
-      "cityId": "1008",
-      "title": "Sobrino de Botín",
-      "description": "In the heart of Madrid, Sobrino de Botín, recognized by the Guinness World Records as the oldest restaurant in the world, offers a truly unique dining experience. Famous for its roast suckling pig, each bite takes you on a journey through Madrid’s rich culinary tradition. The classic and cozy atmosphere transports you to another era, making it the perfect spot for an unforgettable meal.",
-      "date": "2023-09-18",
-      "companion": "family",
-      "usuario": "Jorge",
-      "category": "Drink & drinks",
-      "image": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/349000/349378-Sobrino-De-Botin.jpg",
-      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/madrid.png",
-      "id": 13
-    },
-    {
       "cityId": "1010",
       "title": "Schönbrunn Palace",
       "description": "Wandering through the gardens of Schönbrunn Palace, I was transported to a different era. The grandeur of the palace, combined with the serenity of the beautifully manicured gardens, made me feel like royalty. Watching the sunset over the Gloriette was the perfect way to end the day.",
@@ -278,20 +254,17 @@
       "stamp": "",
       "id": 16
     },
-
     {
-        "cityId": "1006",
-        "title": "Atracción turística en centro de Berlin",
-        "description": "Un pequeño pero acogedor departamento en Berlin, famoso porque desde allí trabaja el TA del Bootcamp de Web Development de Ironhack.No se pierda la oportunidad de visitar este bonito sitio y compartir una cerveza con los habitantes nativos del lugar.",
-        "date": "2024-10-03",
-        "companion": "friends",
-        "usuario": "Jesús Suaste",
-        "category": "experience",
-        "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Screenshot%202024-10-03%20at%2017.11.46.png",
-        "stamp":  "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png",
-        "id": 16
-      }
-
-
+      "cityId": "1006",
+      "title": "Atracción turística en centro de Berlin",
+      "description": "Un pequeño pero acogedor departamento en Berlin, famoso porque desde allí trabaja el TA del Bootcamp de Web Development de Ironhack.No se pierda la oportunidad de visitar este bonito sitio y compartir una cerveza con los habitantes nativos del lugar.",
+      "date": "2024-10-03",
+      "companion": "friends",
+      "usuario": "Jesús Suaste",
+      "category": "experience",
+      "image": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/Screenshot%202024-10-03%20at%2017.11.46.png",
+      "stamp": "https://raw.githubusercontent.com/somorales/viajes-imagenes/refs/heads/main/berlin%202.png",
+      "id": 16
+    }
   ]
 }
